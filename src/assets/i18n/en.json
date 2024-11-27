@@ -1,0 +1,35 @@
+{
+  "GRID": {
+    "NAME": "Name",
+    "EMAIL": "Email",
+    "PHONE": "Phone",
+    "NO_DATA": "No data available",
+    "LOADING": "Loading...",
+    "SHOWING_RESULTS": "Showing {{count}} results"
+  },
+  "FILTER": {
+    "NAME": "Name",
+    "EMAIL": "Email",
+    "PHONE": "Phone",
+    "NAME_PLACEHOLDER": "Search by name...",
+    "EMAIL_PLACEHOLDER": "Search by email...",
+    "PHONE_PLACEHOLDER": "Search by phone...",
+    "CLEAR": "Clear filters"
+  },
+  "VALIDATION": {
+    "INVALID_EMAIL": "Please enter a valid email address",
+    "INVALID_PHONE": "Please enter a valid phone number"
+  },
+  "ERROR": {
+    "LOADING_DATA": "Failed to load data",
+    "RETRY": "Retry"
+  },
+  "PAGINATION": {
+    "PREVIOUS": "Previous",
+    "NEXT": "Next",
+    "OF": "of",
+    "SHOWING": "Showing",
+    "TO": "to",
+    "OF_TOTAL": "of {{total}}"
+  }
+}
