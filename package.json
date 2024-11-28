@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "deploy": "ng build --configuration production --base-href=/Angular-Responsive-Grid-Task/ && npx gh-pages -d dist/task"
+    "deploy": "ng build --configuration production --base-href='https://ahmednabil30.github.io/Angular-Responsive-Grid-Task/' && npx gh-pages -d dist/task"
   },
   "private": true,
   "dependencies": {
