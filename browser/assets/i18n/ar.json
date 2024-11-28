@@ -1,0 +1,35 @@
+{
+  "GRID": {
+    "NAME": "الاسم",
+    "EMAIL": "البريد الإلكتروني",
+    "PHONE": "الهاتف",
+    "NO_DATA": "لا توجد بيانات",
+    "LOADING": "جاري التحميل...",
+    "SHOWING_RESULTS": "عرض {{count}} نتيجة"
+  },
+  "FILTER": {
+    "NAME": "الاسم",
+    "EMAIL": "البريد الإلكتروني",
+    "PHONE": "الهاتف",
+    "NAME_PLACEHOLDER": "البحث بالاسم...",
+    "EMAIL_PLACEHOLDER": "البحث بالبريد الإلكتروني...",
+    "PHONE_PLACEHOLDER": "البحث برقم الهاتف...",
+    "CLEAR": "مسح عوامل التصفية"
+  },
+  "VALIDATION": {
+    "INVALID_EMAIL": "يرجى إدخال عنوان بريد إلكتروني صحيح",
+    "INVALID_PHONE": "يرجى إدخال رقم هاتف صحيح"
+  },
+  "ERROR": {
+    "LOADING_DATA": "فشل تحميل البيانات",
+    "RETRY": "إعادة المحاولة"
+  },
+  "PAGINATION": {
+    "PREVIOUS": "السابق",
+    "NEXT": "التالي",
+    "OF": "من",
+    "SHOWING": "عرض",
+    "TO": "إلى",
+    "OF_TOTAL": "من {{total}}"
+  }
+}
